@@ -1,4 +1,4 @@
-# Ping Simulator in JunOS Style
+# Ping Simulator JunOS
 
 ## Opis projektu
 Symulator komendy `ping` inspirowany JunOS, napisany w Pythonie, umożliwia diagnostykę sieci za pomocą protokołu ICMP. Narzędzie obsługuje podstawowe parametry, takie jak liczba pakietów, rozmiar danych czy czas oczekiwania na odpowiedź. Projekt działa w środowisku Linux i wykorzystuje surowe gniazda ICMP. Szczegółowa dokumentacja znajduje się w załącznikach.
