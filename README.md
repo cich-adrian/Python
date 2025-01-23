@@ -23,9 +23,7 @@ Symulator komendy `ping` inspirowany JunOS, napisany w Pythonie, umożliwia diag
 1. **Kopiowanie skryptu** na system Linux:
    ```bash
    scp ping_simulator.py user@linux_host:/home/user/ping/
-2. Ustawienie uprawnień do wykonania:
-   ```bash
+2. **Ustawienie uprawnień do wykonania**:
 chmod +x ping_simulator.py
-3. Uruchomienie skryptu (przykład):
-  ```bash
+3. **Uruchomienie skryptu (przykład)**:
 sudo ./ping_simulator.py 8.8.8.8 --count 5 --size 128
